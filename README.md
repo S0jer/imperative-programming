@@ -1,1 +1,1 @@
-# Programowanie_imperatywne
+# Programowanie_imperatywne - rozwiązania.
